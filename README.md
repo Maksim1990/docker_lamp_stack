@@ -1,6 +1,6 @@
 # Docker LAMP stack
 
-### Run following command for start server
+### Run following command in order to start server
 `docker-compose up -d`
 
 
