@@ -42,10 +42,10 @@
     mysqli_close($conn);
     
 	//-- Example of testing Redis connection
-    $client = new Predis\Client();
-	$client->set('foo', 'bar');
-	$value = $client->get('foo');
-	var_dump($value);
+    //$client = new Predis\Client();
+	//$client->set('foo', 'bar');
+	//$value = $client->get('foo');
+	//var_dump($value);
 
     ?>
     </div>
