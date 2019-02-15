@@ -6,7 +6,7 @@
 
 
 ### Go inside server container (Example)
-`docker exec -it root_www_1 /bin/bash`
+`docker exec -it root_www_1 bash`
 
 ### Updating server and installing Git & Redis inside container
 - apt-get update
